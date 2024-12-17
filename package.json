@@ -1,0 +1,18 @@
+{
+  "name": "escorpion-vertical",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "swiper": "^10.0.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
